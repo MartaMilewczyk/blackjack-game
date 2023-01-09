@@ -10,7 +10,7 @@ This is simple, basic version of Blackjack and aces count as 11. In the next com
 
 ## Installation
 
-Application is deployed in <a href="">Github</a>
+Application is deployed in <a href="https://martamilewczyk.github.io/blackjack-game">Github</a>
 
 ## Usage
 
@@ -21,6 +21,8 @@ Application view
 ## Credits
 
 <a href="https://www.freecodecamp.org/news">FreeCodeCamp</a>
+
+Game <a href="https://en.wikipedia.org/wiki/Blackjack">description</a>
 
 Photo by <a href="https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Brett Jordan</a> on <a href="https://unsplash.com/s/photos/gambling?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
